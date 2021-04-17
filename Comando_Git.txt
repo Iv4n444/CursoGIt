@@ -1,0 +1,7 @@
+Comando de GIT
+
+- git init (al comenzar con el proyecto). Crea un area de ensayo y un repositorio local.
+- git add ( solo da seguimiento a un solo archivo )
+- git commit (traslada los archivos del area de ensayo al repositorio local)
+-git status -s
+-git log --oneline
